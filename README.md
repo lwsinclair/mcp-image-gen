@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sarthakkimtani-mcp-image-gen-badge.png)](https://mseep.ai/app/sarthakkimtani-mcp-image-gen)
+
 # Image Generation MCP Server
 
 A Model Context Protocol (MCP) server that enables seamless generation of high-quality images via Together AI. This server provides a standardized interface to specify image generation parameters.
